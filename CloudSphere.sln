@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSphere", "CloudSphere\CloudSphere.csproj", "{2C4D4D91-FC2D-4CCE-8220-3EE9CAC47952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4D4D91-FC2D-4CCE-8220-3EE9CAC47952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4D4D91-FC2D-4CCE-8220-3EE9CAC47952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4D4D91-FC2D-4CCE-8220-3EE9CAC47952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4D4D91-FC2D-4CCE-8220-3EE9CAC47952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1995317-AB69-4CFA-9357-3B987A04A5FA}
+	EndGlobalSection
+EndGlobal
